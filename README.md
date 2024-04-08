@@ -4,6 +4,16 @@
 
 2D 로그라이크 덱 빌딩 게임
 ----
+<details>
+  <summary>Sample Image</summary>
+  
+  <img width="696" alt="001" src="https://github.com/Lawrence1031/ProjectNiO/assets/144416099/f2621db0-4096-4759-84c6-63bdc9220d59">
+
+  <img width="696" alt="002" src="https://github.com/Lawrence1031/ProjectNiO/assets/144416099/f8ee675b-1181-45a2-9d0e-6db04063242a">
+
+  <img width="696" alt="003" src="https://github.com/Lawrence1031/ProjectNiO/assets/144416099/9b6b9bbb-3343-443c-b3a8-98eacb3725dc">
+
+</details>
 
 프로젝트 정보
 ----
