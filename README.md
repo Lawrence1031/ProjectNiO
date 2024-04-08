@@ -53,6 +53,7 @@ Structure
 > 
 > [코드](https://github.com/Lawrence1031/ProjectNiO/blob/main/release_1009/scene/s12_result.py)
 
+</br>
 
 ### 2. 덱 빌딩 시스템
 > 이 게임에서 덱은 적과 전투하는 방법임과 동시에 플레이어의 체력을 나타냅니다.
@@ -60,8 +61,21 @@ Structure
 > 몬스터와의 전투에서 일정 대미지를 받으면 랜덤으로 덱에 있는 카드 중 한 장이 삭제됩니다.
 > 
 > [코드](https://github.com/Lawrence1031/ProjectNiO/blob/main/release_1009/scene/s08_battleevent.py#L449)
+
+</br>
+
+### 3. 이벤트 시스템
+> 이 게임은 하나의 방에서 다른 방으로 이동하는 경우에 확률에 따라 여러 이벤트 중에 하나의 이벤트가 발생합니다.
+> 
+> 방에 따라서 정해진 텍스트 이벤트, 배틀 이벤트, 시나리오 이벤트 중의 하나가 확률로 발생합니다.
+> 
+> 아래의 링크는 첫번째 방에 대한 코드입니다.
+> 
+> 첫번째 방에 방문하면 최초 방문 시 발생하는 이벤트가 있으며 그 이후에는 다른 이벤트가 발생합니다.
 >
->
+> 또, 이 방에 방문하는 것으로 다른 방도 열리도록 구현하였습니다.
+> 
+> [코드](https://github.com/Lawrence1031/ProjectNiO/blob/main/release_1009/scene/s06_stage1.py#L490)
 
 
 기타 자료
