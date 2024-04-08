@@ -445,8 +445,6 @@ class Battleevent(Scene):
 		self.use_monster_action();
 
 		return
-
-	# ### check_total_damage method
 	
 	def check_total_damage(self):
 		nDiscard = 0
