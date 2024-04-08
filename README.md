@@ -83,6 +83,8 @@ Structure
 ----
 <details>
   
+</br>
+
 [노션](https://scythe-sesame-8dc.notion.site/Nio-Gress-bf415777a49d48e1b75a392cefd51ff8?pvs=4)
 
 [인트로 디자인](https://docs.google.com/document/d/1VU5sNhFXxkIzToxymgBn0R7T0pTtcEiO75gsvunvfKc/edit)
