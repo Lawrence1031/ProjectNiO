@@ -1,0 +1,8 @@
+self.nIlluWidth = 540
+        self.nIlluHeight = 400
+self.nIlluLeft = 10
+        self.nIlluTop = 90
+
+
+
+카드 배경 검은색
