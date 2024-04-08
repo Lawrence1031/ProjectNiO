@@ -79,10 +79,9 @@ Structure
 
 </br>
 
-기획문서
+참고 문서
 ----
 <details>
-  <summary>
-    
-  </summary>
+  <summary> 노션 </summary>
+  https://scythe-sesame-8dc.notion.site/Nio-Gress-bf415777a49d48e1b75a392cefd51ff8?pvs=4
 </details>
