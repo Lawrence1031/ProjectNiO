@@ -83,12 +83,12 @@ Structure
 ----
 <details>
   
-![노션](https://scythe-sesame-8dc.notion.site/Nio-Gress-bf415777a49d48e1b75a392cefd51ff8?pvs=4)
+[노션](https://scythe-sesame-8dc.notion.site/Nio-Gress-bf415777a49d48e1b75a392cefd51ff8?pvs=4)
 
-![인트로디자인](https://docs.google.com/document/d/1VU5sNhFXxkIzToxymgBn0R7T0pTtcEiO75gsvunvfKc/edit)
+[인트로 디자인](https://docs.google.com/document/d/1VU5sNhFXxkIzToxymgBn0R7T0pTtcEiO75gsvunvfKc/edit)
 
-![카드일람](https://docs.google.com/spreadsheets/d/1B3lsgHD4Dft20dNQod0vl8ziL2F0rlmN3rxBfx-XjAk/edit#gid=200919693)
+[카드 일람](https://docs.google.com/spreadsheets/d/1B3lsgHD4Dft20dNQod0vl8ziL2F0rlmN3rxBfx-XjAk/edit#gid=200919693)
 
-![이벤트일람](https://docs.google.com/spreadsheets/d/1SS5g3eC8O3ZyahbK93I_A3ELKXPqfw3gqDal4nnbq1s/edit#gid=863574291)
+[이벤트 일람](https://docs.google.com/spreadsheets/d/1SS5g3eC8O3ZyahbK93I_A3ELKXPqfw3gqDal4nnbq1s/edit#gid=863574291)
 
 </details>
