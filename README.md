@@ -49,7 +49,10 @@ Structure
 >
 > 몬스터와의 전투에서 일정 대미지를 받으면 랜덤으로 덱에 있는 카드 중 한 장이 삭제됩니다.
 > 
-> [코드](https://github.com/Lawrence1031/ProjectNiO/blob/main/release_1009/scene/s08_battleevent.py#check-total-damage-method)
+> [코드](https://github.com/Lawrence1031/ProjectNiO/blob/main/release_1009/scene/s08_battleevent.py#L449)
+>
+>
+
 
 기타 자료
 ----
