@@ -447,6 +447,7 @@ class Battleevent(Scene):
 
 		return
 
+	# ### check_total_damage method
 	def check_total_damage(self):
 		nDiscard = 0
 		while self.nTotalDamage >= self.nMaxDamage :
