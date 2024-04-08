@@ -77,7 +77,12 @@ Structure
 > 
 > [코드](https://github.com/Lawrence1031/ProjectNiO/blob/main/release_1009/scene/s06_stage1.py#L490)
 
+</br>
 
-기타 자료
+기획문서
 ----
-#### 기획문서
+<details>
+  <summary>
+    
+  </summary>
+</details>
