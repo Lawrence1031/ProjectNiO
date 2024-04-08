@@ -9,7 +9,7 @@ import random
 import copy
 rd = lambda n,d=None:round(n+10**(-len(str(n))-1),d)
 
-
+[check_total_damage 메소드로 이동](#check-total-damage-method)
 
 class Battleevent(Scene):
 	def __init__(self, game):
