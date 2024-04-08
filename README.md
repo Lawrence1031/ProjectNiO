@@ -38,12 +38,18 @@ Structure
 ----
 ### 1. 로그라이크
 > 게임이 한 회차가 종료된 후, 해당 회차의 결과를 토대로 점수를 매겨 자원을 획득합니다.
+> 
 > 획득한 자원으로 다음 회차의 덱 선택 시에 카드를 추가로 가지고 시작할 수 있습니다.
-> ![코드](https://github.com/Lawrence1031/ProjectNiO/blob/main/release_1009/scene/s12_result.py)
+> 
+> [코드](https://github.com/Lawrence1031/ProjectNiO/blob/main/release_1009/scene/s12_result.py)
+
 
 ### 2. 덱 빌딩 시스템
-> 게임에서 사용하는 체력이 덱으로 덱이 적과 전투하는 방법임과 동시에 
-
+> 이 게임에서 덱은 적과 전투하는 방법임과 동시에 플레이어의 체력을 나타냅니다.
+>
+> 몬스터와의 전투에서 일정 대미지를 받으면 랜덤으로 덱에 있는 카드 중 한 장이 삭제됩니다.
+> 
+> [코드](check-total-damage-method)
 
 기타 자료
 ----
