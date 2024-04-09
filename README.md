@@ -51,7 +51,7 @@ Structure
 > 
 > 획득한 자원으로 다음 회차의 덱 선택 시에 카드를 추가로 가지고 시작할 수 있습니다.
 > 
-> [코드](https://github.com/Lawrence1031/ProjectNiO/blob/main/release_1009/scene/s12_result.py)
+> [코드](https://github.com/Lawrence1031/ProjectNiO/blob/main/scene/s12_result.py)
 
 </br>
 
@@ -60,7 +60,7 @@ Structure
 >
 > 몬스터와의 전투에서 일정 대미지를 받으면 랜덤으로 덱에 있는 카드 중 한 장이 삭제됩니다.
 > 
-> [코드](https://github.com/Lawrence1031/ProjectNiO/blob/main/release_1009/scene/s08_battleevent.py#L449)
+> [코드](https://github.com/Lawrence1031/ProjectNiO/blob/main/scene/s08_battleevent.py#L449)
 
 </br>
 
@@ -75,7 +75,7 @@ Structure
 >
 > 또, 이 방에 방문하는 것으로 다른 방도 열리도록 구현하였습니다.
 > 
-> [코드](https://github.com/Lawrence1031/ProjectNiO/blob/main/release_1009/scene/s06_stage1.py#L490)
+> [코드](https://github.com/Lawrence1031/ProjectNiO/blob/main/scene/s06_stage1.py#L490)
 
 </br>
 
