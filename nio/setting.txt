@@ -1,1 +1,0 @@
-{"nVolumeBgm": 0.1, "nVolumeSe": 0.3, "bFullScreen": false}
